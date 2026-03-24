@@ -56,9 +56,8 @@ Returns total number of published papers.
 
 ## 🔗 Deployed Smart Contract Link
 Academic Publishing Platform:  
-👉 https://stellar.expert/explorer/testnet/contract/ACADEMIC_PUBLISHING_CONTRACT_ID
+👉 https://stellar.expert/explorer/testnet/contract/CDVOFASBCH5GRZV776IRAXTOYL3E3D2PK2NWOQYQ5D7V23QXMRBGSZMY
 
-*(Replace with your actual deployed contract ID after deployment)*
 
 ## ⚙️ How to Deploy
 
